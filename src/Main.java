@@ -48,7 +48,6 @@ public class Main {
         int deliveryDistance = 95;
         int day =1;
         amount(day,deliveryDistance);
-
     }
 
 }
