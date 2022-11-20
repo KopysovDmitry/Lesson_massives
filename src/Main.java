@@ -30,7 +30,6 @@ public class Main {
         if (client != 0 && clientDeviceYear < 2015) {
             System.out.println("Установите облегченную версию приложения для android по ссылке");
         }
-
     }
     public static void main(String[] args) {
         //task 1//
